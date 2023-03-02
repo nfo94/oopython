@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "oopython"
+version = "0.1.0"
+description = "Study files for Python Object Oriented Programming"
+authors = ["Natalia Oliveira <nataliaferreiraoliveira1994@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+flake8 = "^6.0.0"
+black = "^23.1.0"
+mypy = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
