@@ -28,3 +28,4 @@ Obs: just for comparison, JavaScript is dynamically and weakly typed
     earlier
 -   The one difference, syntactically, between methods of classes and functions outside classes is
     that methods have one required argument. This argument is conventionally named `self`
+-   All Python classes are subclasses of the special built-in class named object
